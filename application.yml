@@ -7,6 +7,6 @@ spring:
         git:
           uri: https://github.com/MalateshKR3/Spring-cloud-config
           search-paths:
-           - 'service-config/*service'
+           - '*'
           #username: root
           #passphrase: 12345
