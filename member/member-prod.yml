@@ -1,2 +1,10 @@
-greeting:
-message: git from member folder!!
+member:
+ rent:
+  min: 8
+  max: 31
+ price:
+  discount: 3
+vehicle:
+ default:
+  model: cross over
+duration: summer prod
